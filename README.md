@@ -1,10 +1,6 @@
 # Hey you! 👋
 ### Welcome to my profile!
 
-
-![image](https://github.com/user-attachments/assets/dc1fa8de-f692-4c74-8aa1-0fe3817dea21)
-
-
 🔭I am currently immersed in a fascinating personal project that involves applying my data science skills. The primary aim is to hone my existing knowledge further and acquire new expertise.
 
 - 🌱Every day, I am dedicated to self-improvement!
