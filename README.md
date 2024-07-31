@@ -9,6 +9,7 @@
 - 📫You can reach me at:
   - **Email:** goldprint3@outlook.com
   - **LinkedIn:** https://www.linkedin.com/in/louisa
+  - **Website:** https://medium.com/@datadiscoveries
 - 😄Pronouns: she/her
 - ⚡ Fun fact: I am avidly passionate about puzzle games and sci-fi movies!
   
